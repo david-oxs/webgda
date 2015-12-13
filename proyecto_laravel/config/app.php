@@ -140,10 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        webgda\Providers\AppServiceProvider::class,
+        webgda\Providers\AuthServiceProvider::class,
+        webgda\Providers\EventServiceProvider::class,
+        webgda\Providers\RouteServiceProvider::class,
 
     ],
 

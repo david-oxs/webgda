@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace webgda\Jobs;
 
 use Illuminate\Bus\Queueable;
 

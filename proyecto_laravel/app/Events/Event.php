@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace webgda\Events;
 
 abstract class Event
 {

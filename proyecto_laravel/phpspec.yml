@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: webgda
+        psr4_prefix: webgda
         src_path: app

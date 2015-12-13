@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace webgda\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
